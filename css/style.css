@@ -1,0 +1,24 @@
+.box{
+	width: 200px;
+	height: 200px;
+	background-color: #dddddd;
+	margin-bottom: 5px;
+}
+.five, .hasan{
+	margin-bottom: 10px;
+}
+.tree{
+	color:black;
+}
+.four{
+	background-color: #dddddd;
+}
+.six{
+	border: 1px solid red;
+	background-color: #dddddd;
+}
+.tuhin, .nine{
+	min-height: 200px;
+	background-color: #dddddd;
+	overflow: hidden;
+}
